@@ -1,0 +1,24 @@
+#title1{
+color:hotpink;
+background-color:antiquewhite;
+width:500px;
+font-size:50px;
+margin-top:20px;
+}
+hr{
+width:900px;
+}
+.objects{
+color:orange
+}
+#webcam-view{
+border:5px black dotted;
+height:350px;
+width:380px;
+}
+body{
+font-family: 'Lobster', cursive;
+background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+font-size:35px;
+}
